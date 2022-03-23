@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="Paired_devices">Paired devices</string>
+    <string name="strDisconnect">Disconnect</string>
+    <string name="strOn">On</string>
+    <string name="strOff">Off</string>
+    <string name="ble_not_supported">Device doesn\'t support BLE</string>
+    <string name="title_activity_controller">Controller</string>
+
+    <string name="deviceListHeader">%1$s Devices</string>
+
+    <string name="getDeviceButtonReason">get%1$s</string>
+
+    <string name="btnGetVisibleTXT">Get visible</string>
+    <string name="btnGetPairedDevicesTXT">Get paired</string>
+    <string name="btnGetNewDevicesTXT">Get new devices</string>
+    <string name="btnOffTXT">Bluetooth off</string>
+</resources>
